@@ -1,0 +1,7 @@
+flask
+gunicorn
+gspread
+pandas
+gspread-dataframe
+google-api-python-client
+google-auth
